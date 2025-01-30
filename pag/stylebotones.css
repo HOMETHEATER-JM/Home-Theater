@@ -1,0 +1,53 @@
+.Naruto .boton{
+    background: rgba(0, 0, 0, 0.5);
+    border: none;
+    border-radius: 0.31em;
+    padding: 0.93em 1.87em;
+    color: #fff;
+    margin-right: 1.25em;
+    cursor: pointer;
+    transition: .3s ease all;
+    font-size: 1.12em;
+	position: relative;
+}
+
+.Naruto .boton:hover {
+    background: #fff;
+    color: #000;
+}
+
+.Dragon-ball-super .boton{
+    background: rgba(0, 0, 0, 0.5);
+    border: none;
+    border-radius: 0.31em;
+    padding: 0.93em 1.87em;
+    color: #fff;
+    margin-right: 1.25em;
+    cursor: pointer;
+    transition: .3s ease all;
+    font-size: 1.12em;
+	position: relative;
+}
+
+.Dragon-ball-super .boton:hover {
+    background: #fff;
+    color: #000;
+}
+
+.Naruto-shippuden .boton{
+    background: rgba(0, 0, 0, 0.5);
+    border: none;
+    border-radius: 0.31em;
+    padding: 0.93em 1.87em;
+    color: #fff;
+    margin-right: 1.25em;
+    cursor: pointer;
+    transition: .3s ease all;
+    font-size: 1.12em;
+	position: relative;
+}
+
+.Naruto-shippuden .boton:hover {
+    background: #fff;
+    color: #000;
+}
